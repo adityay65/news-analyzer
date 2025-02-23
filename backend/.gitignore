@@ -1,0 +1,12 @@
+# Python-related
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+
+# Logs and temporary files
+*.log
