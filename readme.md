@@ -26,5 +26,4 @@ AI-powered news headline analyzer that assigns conspiracy scores and categorizes
 - `/classify`: Classify a headline.
 - `/headlines`: Manage stored headlines.
 
-## License:
-MIT License.
+
